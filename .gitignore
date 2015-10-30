@@ -2,3 +2,5 @@ FrontEnd/FrontEnd/settings.py
 FrontEnd/FrontEnd/settings_*.py
 /settings.py
 FrontEnd/settings.py
+*.pyc
+
